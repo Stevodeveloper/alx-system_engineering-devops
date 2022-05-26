@@ -7,3 +7,4 @@
 ‘long format of directory contents with user IDs’
 ‘making directory’
 ‘moving a file’
+‘deleting a file’
