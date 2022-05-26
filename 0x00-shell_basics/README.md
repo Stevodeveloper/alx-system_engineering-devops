@@ -10,3 +10,4 @@
 ‘deleting a file’
 ‘deleting a directory’
 ‘back to previous directory’
+‘list files with periodic character’
