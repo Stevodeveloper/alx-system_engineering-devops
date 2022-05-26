@@ -8,3 +8,4 @@
 ‘making directory’
 ‘moving a file’
 ‘deleting a file’
+‘deleting a directory’
