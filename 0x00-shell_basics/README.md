@@ -9,3 +9,4 @@
 ‘moving a file’
 ‘deleting a file’
 ‘deleting a directory’
+‘back to previous directory’
