@@ -6,3 +6,4 @@
 ‘hidden files of directory in long format’
 ‘long format of directory contents with user IDs’
 ‘making directory’
+‘moving a file’
