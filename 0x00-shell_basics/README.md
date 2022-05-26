@@ -5,3 +5,4 @@
 ‘long format of directory contents’
 ‘hidden files of directory in long format’
 ‘long format of directory contents with user IDs’
+‘making directory’
