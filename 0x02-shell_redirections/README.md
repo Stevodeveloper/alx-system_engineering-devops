@@ -10,3 +10,4 @@ writing imto a file
 duplication
 no more js
 numbers
+displayed one per line
