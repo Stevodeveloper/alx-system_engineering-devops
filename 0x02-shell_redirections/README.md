@@ -13,3 +13,4 @@ numbers
 displayed one per line
 unique
 global regular expansion print
+counting
