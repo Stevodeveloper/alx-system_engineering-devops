@@ -8,3 +8,4 @@ the third line
 creating a file
 writing imto a file
 duplication
+no more js
