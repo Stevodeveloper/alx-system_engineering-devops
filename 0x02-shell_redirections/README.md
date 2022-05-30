@@ -7,3 +7,4 @@ the first lines
 the third line
 creating a file
 writing imto a file
+duplication
