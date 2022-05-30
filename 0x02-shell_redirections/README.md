@@ -19,3 +19,4 @@ counting
 letters from a-z
 replacing characters
 removing a letter
+reversing
