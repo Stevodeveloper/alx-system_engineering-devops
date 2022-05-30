@@ -14,3 +14,5 @@ displayed one per line
 unique
 global regular expansion print
 counting
+‘what is next after that line’
+‘what is next after that line’
