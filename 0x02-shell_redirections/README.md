@@ -11,3 +11,4 @@ duplication
 no more js
 numbers
 displayed one per line
+unique
