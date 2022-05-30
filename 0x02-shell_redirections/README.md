@@ -12,3 +12,4 @@ no more js
 numbers
 displayed one per line
 unique
+global regular expansion print
