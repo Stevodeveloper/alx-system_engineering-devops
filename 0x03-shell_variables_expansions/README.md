@@ -11,3 +11,4 @@ div two variables
 power in shell
 binary to decimal
 commbinations
+2 d.p
