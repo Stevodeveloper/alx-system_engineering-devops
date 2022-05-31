@@ -8,3 +8,4 @@ local variable
 new global variable
 adding to a variables content
 div two variables
+power in shell
