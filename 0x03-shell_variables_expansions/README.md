@@ -10,3 +10,4 @@ adding to a variables content
 div two variables
 power in shell
 binary to decimal
+commbinations
