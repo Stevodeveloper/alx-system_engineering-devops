@@ -22,3 +22,4 @@ removing a letter
 reversing
 sorted user
 finding all empty files
+gifs
