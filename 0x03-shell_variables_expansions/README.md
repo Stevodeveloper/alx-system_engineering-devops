@@ -6,3 +6,4 @@ global variables
 all variables and functions
 local variable
 new global variable
+adding to a variables content
