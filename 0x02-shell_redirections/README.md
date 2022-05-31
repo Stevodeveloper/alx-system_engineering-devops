@@ -25,3 +25,4 @@ finding all empty files
 gifs
 arcostic
 the biggest fan
+task 7
