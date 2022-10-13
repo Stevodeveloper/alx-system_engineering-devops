@@ -1,14 +1,15 @@
 #!/usr/bin/env bash
 # for loops and if statement
 z=9
-for ((i=2; i<=10; i++))
+i=2
+while ((i<=10))
 do
 	echo "Best School"
 	if [ "$i" -eq "$z" ]
 	then
 		echo "Best School"
 		echo "Hi"
-		continue
 	fi
+	((i += 1))
 done
 
