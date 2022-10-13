@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#until loop.as long as the command fails the loop continues to execute
+
+i=1
+until ((i>10))
+do
+	echo "Best School"
+	((i += 1))
+done
+
