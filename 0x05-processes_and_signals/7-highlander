@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #display to infinity and beyond indefinitely
 
-#handle a SIGTERM
-trap "echo 'I am invincible!!!'" 15
+#handle a SIGTERM and you can use (15) in place of SIGTERM
+trap "echo 'I am invincible!!!'" SIGTERM
 
 #print the message forever
 while true;
